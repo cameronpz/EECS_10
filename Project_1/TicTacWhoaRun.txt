@@ -1,0 +1,52 @@
+Script started on Wed 06 Jul 2022 11:50:59 PM PDT
+]0;chpeters@crystalcove:~/hw1[chpeters@crystalcove ~/hw1]$ ./TicTacWhoa
+Select one of the following numbers
+1 Start New Game 
+2 Settings 
+3 Exit Program
+1
+Game Begins...
+Player 1 Symbol: X
+Player 2 Symbol: O
+3___|___|___
+2___|___|___
+1___|___|___
+  A   B   C 
+Next Move
+A1
+3___|___|___
+2___|___|___
+1_X_|___|___
+  A   B   C 
+Next Move
+A2
+3___|___|___
+2_O_|___|___
+1_X_|___|___
+  A   B   C 
+Next Move
+A3
+3_X_|___|___
+2_O_|___|___
+1_X_|___|___
+  A   B   C 
+Next Move
+A2
+invalid input, please enter again
+B1
+3_X_|___|___
+2_O_|___|___
+1_X_|_O_|___
+  A   B   C 
+Next Move
+quit
+Quit Game, Exiting
+Select one of the following numbers
+1 Start New Game 
+2 Settings 
+3 Exit Program
+3
+Exiting Program]0;chpeters@crystalcove:~/hw1[chpeters@crystalcove ~/hw1]$ exit
+exit
+
+Script done on Wed 06 Jul 2022 11:51:38 PM PDT
