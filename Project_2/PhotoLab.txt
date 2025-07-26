@@ -1,0 +1,5 @@
+In this program I have a main function and then all of the other DIP operations as separate functions. 
+We have a main menu to pick which DIP operation the user wants to do on the image. 
+There are comments to describe all the operations. 
+I implemented it with a main and various programs for ease of debugging (as you can comment out all other functions to debug one that is broken) and also for ease of reading
+
