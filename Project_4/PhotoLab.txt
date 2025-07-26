@@ -1,0 +1,10 @@
+This program computes numerous operations on images. 
+This program utilizes dynamic allocation of memory through the use of structs and pointers to structs
+This program only writes malloc and free into the CreateImage and DeleteImage, respectively. 
+Thus, to allocate or free memory, one must call these functions.
+This program begins at a menu which prints the selections one can take. 
+The user can press any combinations of operations and menu items before hitting exit (option 13). 
+The user can turn the image into black and white, sharpen the image, change the hue of the image, add noise to the image, and add blur to the image (called motion blur).
+The user can also crop the image into a square, enlarge the image, adjust the brightness and contrast, and posterize the image. 
+The user can also select 12 to test all functions with preset values. 
+Lastly, there is a secondary program generated called PhotoLabTest which tests all functions in debug mode. 
