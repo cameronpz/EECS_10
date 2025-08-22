@@ -1,0 +1,18 @@
+Script started on Wed 13 Jul 2022 12:53:47 PM PDT
+]0;chpeters@crystalcove:~/hw2[chpeters@crystalcove ~/hw2]$ ./PhotoLab
+1: Load a PPM image
+2: Save the image in PPM and JPEG format
+3: Change the color image to black and white
+4: Sharpen the image
+5: Change the hue of image
+6: Test all functions
+7: Exit
+Please make your choice: 3
+
+applestore.ppm was read successfully!
+bw.ppm was saved successfully. 
+bw.jpg was stored for viewing. 
+"Black & White" operation is done!]0;chpeters@crystalcove:~/hw2[chpeters@crystalcove ~/hw2]$ exit
+exit
+
+Script done on Wed 13 Jul 2022 12:54:01 PM PDT
